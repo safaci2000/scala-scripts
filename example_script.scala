@@ -1,5 +1,4 @@
-#!/bin/bash
-exec scala "$0" "$@"
+#!/usr/bin/scala
 !#
 object HelloWorld {
   def main(args: Array[String]) {
